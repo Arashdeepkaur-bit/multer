@@ -1,0 +1,9 @@
+Library to upload files
+
+main 2 parts
+
+1. destination(where to upload)
+
+2. file name
+
+we create object of multer as upload that will upload  the request in file folder
