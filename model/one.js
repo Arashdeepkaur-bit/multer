@@ -5,6 +5,6 @@ oneSchema = new Schema({
     name : String,
     salary : Number,
     age : Number,
-    file:string
+    file:String
 });
 module.exports = mongoose.model('one', oneSchema);
